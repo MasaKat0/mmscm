@@ -1,6 +1,18 @@
 # SyntheticControlMethods reviewer-response supplement
 
-This folder contains the code files needed for the Figure 2, Figure 3, and reviewer-response simulations discussed in the JCI revision.
+This is a code for Moment Matching SCM (MMSCM).
+
+```
+@misc{kato2025asymptoticallyunbiasedsyntheticcontrol,
+      title={Asymptotically Unbiased Synthetic Control Methods by Moment Matching}, 
+      author={Masahiro Kato and Akari Ohda},
+      year={2025},
+      eprint={2307.11127},
+      archivePrefix={arXiv},
+      primaryClass={econ.EM},
+      url={https://arxiv.org/abs/2307.11127}, 
+}
+```
 
 ## Files
 
