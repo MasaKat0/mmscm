@@ -7,7 +7,7 @@ matplotlib
 # Progress bars / utilities
 tqdm
 
-# Used in Fig04_Simulation_Distribution_MMD.ipynb
+# Used in Figure4_Simulation_Distribution_MMD.ipynb
 torch
 
 # Notebook execution
