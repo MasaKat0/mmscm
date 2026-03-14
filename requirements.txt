@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+
+# Progress bars / utilities
+tqdm
+
+# Used in Fig04_Simulation_Distribution_MMD.ipynb
+torch
+
+# Notebook execution
+jupyter
+notebook
+ipykernel
+
+# SCPI baseline (the code imports `scpi_pkg`)
+# If this name does not resolve in your environment, try: pip install scpi_pkg
+scpi-pkg
